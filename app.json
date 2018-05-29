@@ -1,7 +1,7 @@
 {
-    "name": "eMbeta Cloud",
+    "name": "TopTipsTricks SeedBox",
     "description": "Directly upload files to Cloud",
-    "repository": "https://github.com/Mrigank11/embetacloud",
+    "repository": "https://github.com/jazz19972/n00b",
     "env": {
         "GOOGLE_CLIENT_ID": {
             "description": "Google Project's Client ID"
